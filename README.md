@@ -49,3 +49,5 @@ Detailed reports demonstrating real-world vulnerability scenarios:
 
 ## Notes
 All research is conducted in accordance with responsible disclosure practices.
+## Future Direction
+Planning to develop scalable solutions for web application security testing and abuse detection.
