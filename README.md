@@ -24,3 +24,6 @@ Due to NDA and responsible disclosure policies, specific technical details are a
 
 ## Case Studies
 See individual reports in this repository.
+
+### Reports
+- [Email Abuse in SaaS Platforms](./email-abuse-saas.md)
