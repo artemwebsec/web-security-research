@@ -29,3 +29,4 @@ See individual reports in this repository.
 - [Email Abuse in SaaS Platforms](./email-abuse-saas.md)
 - [Notification Abuse in Ticketing Systems (Jira)](./jira-notification-abuse.md)
 - [CRM Security Testing & Optimization](./crm-security-and-testing.md)
+- [Automated Account Registration (Anti-Bot Weakness)](./account-registration-automation.md)
