@@ -27,3 +27,4 @@ See individual reports in this repository.
 
 ### Reports
 - [Email Abuse in SaaS Platforms](./email-abuse-saas.md)
+- [Notification Abuse in Ticketing Systems (Jira)](./jira-notification-abuse.md)
