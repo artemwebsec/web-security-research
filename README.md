@@ -46,6 +46,7 @@ Detailed reports demonstrating real-world vulnerability scenarios:
 - [Notification Abuse in Ticketing Systems (Jira)](./jira-notification-abuse.md)
 - [CRM Security Testing & Optimization](./crm-security-and-testing.md)
 - [Automated Account Registration (Anti-Bot Weakness)](./account-registration-automation.md)
+- [Affiliate Platform Testing & Process Optimization](./affiliate-platform-testing.md)
 
 ## Notes
 All research is conducted in accordance with responsible disclosure practices.
